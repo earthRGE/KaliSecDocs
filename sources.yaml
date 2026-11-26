@@ -1,0 +1,8 @@
+sources:
+  - id: nmap
+    name: Nmap
+    category: networking
+    type: website
+    url: https://nmap.org/book/
+    output: Nmap.docset
+    license: custom
